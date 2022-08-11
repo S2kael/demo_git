@@ -1,3 +1,11 @@
+---
+name: Resolve issue
+about: Create pull request to resolve issue
+title: '[Issue-]'
+labels: ''
+assignees: ''
+
+---
 ### Related issue
 
 - #
